@@ -1,3 +1,3 @@
 # demo
 1st repo
-Author - SINTU
+Author - SINTU kumar
